@@ -1,0 +1,53 @@
+body {
+    background-color: #333;
+    color: #fff;
+/*    background-image: url(../images/Sky3.jpg);*/
+
+
+}
+
+a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    color: honeydew;
+}
+
+h1 {
+    font-family: 'Roboto Slab', serif;
+	font-size:2em;
+	font-weight:300;
+	color:#fb0;
+	/*border-bottom:solid 1px #fb0;*/
+}
+
+h2{
+    font-family: 'Roboto Slab', serif;
+	font-weight:260;
+	color:#1f1;
+}
+h3{
+    font-family: 'Roboto Slab', serif;
+	font-weight:290;
+	color:#bfa;
+}
+h4{
+    font-family: 'Roboto Slab', serif;
+    font-weight:290;
+    color:#bfa;
+}
+
+/*https://www.w3schools.com/tags/tag_ul.asp*/
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-top: 1em;
+    margin-bottom: 1 em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+}
+
+img {
+    object-fit: cover;
+    width: 55%;
+}
